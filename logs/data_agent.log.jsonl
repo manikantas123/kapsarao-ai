@@ -24,3 +24,7 @@
 {"timestamp": "2025-12-05 15:59:59", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
 {"timestamp": "2025-12-05 15:59:59", "agent": "data_agent", "message": "Cleaned data", "extra": {"rows": 4500}}
 {"timestamp": "2025-12-05 15:59:59", "agent": "data_agent", "message": "Split baseline/recent", "extra": {"baseline_rows": 76, "recent_rows": 14}}
+{"timestamp": "2025-12-05 16:10:25", "agent": "data_agent", "message": "DataAgent Failure", "extra": {"error": "[Errno 2] No such file or directory: 'data\\\\fb_ads.csv'"}}
+{"timestamp": "2025-12-05 16:14:37", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 16:14:41", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 16:20:59", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
