@@ -1,0 +1,23 @@
+{"timestamp": "2025-12-05 14:41:16", "agent": "data_agent", "message": "Schema Error: Schema dtype mismatch: [('clicks', 'float64', 'int')]. Fix your dataset or update expected_types.", "extra": {}}
+{"timestamp": "2025-12-05 14:41:19", "agent": "data_agent", "message": "Schema Error: Schema dtype mismatch: [('clicks', 'float64', 'int')]. Fix your dataset or update expected_types.", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "data_agent", "message": "Schema validated, preprocessing complete.", "extra": {}}
+{"timestamp": "2025-12-05 14:45:52", "agent": "data_agent", "message": "Schema validated, preprocessing complete.", "extra": {}}
+{"timestamp": "2025-12-05 14:56:36", "agent": "data_agent", "message": "Loaded dataset", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 14:56:36", "agent": "data_agent", "message": "Data summary produced", "extra": {"campaigns": 322}}
+{"timestamp": "2025-12-05 15:00:13", "agent": "data_agent", "message": "Loaded dataset", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:00:13", "agent": "data_agent", "message": "Data summary produced", "extra": {"campaigns": 322}}
+{"timestamp": "2025-12-05 15:06:26", "agent": "data_agent", "message": "Loaded dataset", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:06:26", "agent": "data_agent", "message": "Data summary produced", "extra": {"campaigns": 322}}
+{"timestamp": "2025-12-05 15:09:08", "agent": "data_agent", "message": "Loaded dataset", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:09:08", "agent": "data_agent", "message": "Data summary produced", "extra": {"campaigns": 322}}
+{"timestamp": "2025-12-05 15:33:02", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:33:02", "agent": "data_agent", "message": "Unexpected Error: validate_schema() takes 1 positional argument but 2 were given", "extra": {}}
+{"timestamp": "2025-12-05 15:34:07", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:34:07", "agent": "data_agent", "message": "Cleaned data", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:34:07", "agent": "data_agent", "message": "Split baseline/recent", "extra": {"baseline_rows": 2250, "recent_rows": 2250}}
+{"timestamp": "2025-12-05 15:38:21", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:38:21", "agent": "data_agent", "message": "Cleaned data", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:38:21", "agent": "data_agent", "message": "Split baseline/recent", "extra": {"baseline_rows": 76, "recent_rows": 14}}
+{"timestamp": "2025-12-05 15:39:35", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:39:35", "agent": "data_agent", "message": "Cleaned data", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:39:35", "agent": "data_agent", "message": "Split baseline/recent", "extra": {"baseline_rows": 76, "recent_rows": 14}}

@@ -1,0 +1,82 @@
+[
+  {
+    "campaign": "ALL_CAMPAIGNS",
+    "metric": "roas",
+    "severity": "low",
+    "angle": "Value & Performance Messaging",
+    "why_this_angle": "ROAS drop suggests ads are not delivering proportional value.",
+    "hooks": [
+      "Better Value for Every Rupee.",
+      "High Performance. Zero Compromise."
+    ],
+    "ctas": [
+      "Shop Now",
+      "Discover Your Comfort Upgrade",
+      "Try It Today"
+    ]
+  },
+  {
+    "campaign": "ALL_CAMPAIGNS",
+    "metric": "ctr",
+    "severity": "low",
+    "angle": "Attention Grabbing Hooks",
+    "why_this_angle": "CTR drop means users are not stopping to engage.",
+    "hooks": [
+      "Stop Scrolling!",
+      "Your Comfort Revolution Starts Here."
+    ],
+    "ctas": [
+      "Shop Now",
+      "Discover Your Comfort Upgrade",
+      "Try It Today"
+    ]
+  },
+  {
+    "campaign": "ALL_CAMPAIGNS",
+    "metric": "spend",
+    "severity": "low",
+    "angle": "General Creative Improvement",
+    "why_this_angle": "Metric underperforming.",
+    "hooks": [
+      "Experience Better Everyday Performance.",
+      "Designed For Your Lifestyle."
+    ],
+    "ctas": [
+      "Shop Now",
+      "Discover Your Comfort Upgrade",
+      "Try It Today"
+    ]
+  },
+  {
+    "campaign": "ALL_CAMPAIGNS",
+    "metric": "revenue",
+    "severity": "low",
+    "angle": "General Creative Improvement",
+    "why_this_angle": "Metric underperforming.",
+    "hooks": [
+      "Experience Better Everyday Performance.",
+      "Designed For Your Lifestyle."
+    ],
+    "ctas": [
+      "Shop Now",
+      "Discover Your Comfort Upgrade",
+      "Try It Today"
+    ]
+  },
+  {
+    "campaign": "ALL_CAMPAIGNS",
+    "metric": "clicks",
+    "severity": "low",
+    "angle": "General Creative Improvement",
+    "why_this_angle": "Metric underperforming.",
+    "hooks": [
+      "Experience Better Everyday Performance.",
+      "Designed For Your Lifestyle."
+    ],
+    "ctas": [
+      "Shop Now",
+      "Discover Your Comfort Upgrade",
+      "Try It Today"
+    ]
+  }
+]

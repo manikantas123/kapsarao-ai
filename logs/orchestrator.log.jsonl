@@ -1,0 +1,48 @@
+{"timestamp": "2025-12-05 14:41:16", "agent": "orchestrator", "message": "Starting run for query: Analyze ROAS drop in last 14 days", "extra": {}}
+{"timestamp": "2025-12-05 14:41:16", "agent": "orchestrator", "message": "Executing Step 1: data_agent \u2192 Load CSV, validate schema, preprocess fields, compute grouped & daily stats", "extra": {}}
+{"timestamp": "2025-12-05 14:41:16", "agent": "orchestrator", "message": "Error in Step 1 (data_agent): Schema dtype mismatch: [('clicks', 'float64', 'int')]. Fix your dataset or update expected_types.", "extra": {}}
+{"timestamp": "2025-12-05 14:41:16", "agent": "orchestrator", "message": "Aborting pipeline due to critical error", "extra": {}}
+{"timestamp": "2025-12-05 14:41:19", "agent": "orchestrator", "message": "Starting run for query: Analyze ROAS drop in last 14 days", "extra": {}}
+{"timestamp": "2025-12-05 14:41:19", "agent": "orchestrator", "message": "Executing Step 1: data_agent \u2192 Load CSV, validate schema, preprocess fields, compute grouped & daily stats", "extra": {}}
+{"timestamp": "2025-12-05 14:41:19", "agent": "orchestrator", "message": "Error in Step 1 (data_agent): Schema dtype mismatch: [('clicks', 'float64', 'int')]. Fix your dataset or update expected_types.", "extra": {}}
+{"timestamp": "2025-12-05 14:41:19", "agent": "orchestrator", "message": "Aborting pipeline due to critical error", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "orchestrator", "message": "Starting run for query: Analyze ROAS drop in last 14 days", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "orchestrator", "message": "Executing Step 1: data_agent \u2192 Load CSV, validate schema, preprocess fields, compute grouped & daily stats", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "orchestrator", "message": "Executing Step 2: insight_agent \u2192 Analyze summary; detect ROAS shifts, CTR changes, underperforming segments", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "orchestrator", "message": "Executing Step 3: evaluator_agent \u2192 Compare baseline vs recent metrics; compute deltas; add severity/confidence", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "orchestrator", "message": "Executing Step 4: creative_agent \u2192 Generate creatives grounded in insights; include angles, hooks, messages, CTA", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "orchestrator", "message": "Executing Step 5: reporter \u2192 Write MD report summarizing insights, deltas, reasoning, and creatives", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "orchestrator", "message": "Error in Step 5 (reporter): 'insight'", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "orchestrator", "message": "Wrote partial report due to errors", "extra": {}}
+{"timestamp": "2025-12-05 14:43:06", "agent": "orchestrator", "message": "Pipeline run completed successfully", "extra": {}}
+{"timestamp": "2025-12-05 14:45:52", "agent": "orchestrator", "message": "Starting run for query: Analyze ROAS drop in last 14 days", "extra": {}}
+{"timestamp": "2025-12-05 14:45:52", "agent": "orchestrator", "message": "Executing Step 1: data_agent \u2192 Load CSV, validate schema, preprocess fields, compute grouped & daily stats", "extra": {}}
+{"timestamp": "2025-12-05 14:45:52", "agent": "orchestrator", "message": "Executing Step 2: insight_agent \u2192 Analyze summary; detect ROAS shifts, CTR changes, underperforming segments", "extra": {}}
+{"timestamp": "2025-12-05 14:45:52", "agent": "orchestrator", "message": "Executing Step 3: evaluator_agent \u2192 Compare baseline vs recent metrics; compute deltas; add severity/confidence", "extra": {}}
+{"timestamp": "2025-12-05 14:45:52", "agent": "orchestrator", "message": "Executing Step 4: creative_agent \u2192 Generate creatives grounded in insights; include angles, hooks, messages, CTA", "extra": {}}
+{"timestamp": "2025-12-05 14:45:52", "agent": "orchestrator", "message": "Executing Step 5: reporter \u2192 Write MD report summarizing insights, deltas, reasoning, and creatives", "extra": {}}
+{"timestamp": "2025-12-05 14:45:52", "agent": "orchestrator", "message": "Error in Step 5 (reporter): 'insight'", "extra": {}}
+{"timestamp": "2025-12-05 14:45:52", "agent": "orchestrator", "message": "Wrote partial report due to errors", "extra": {}}
+{"timestamp": "2025-12-05 14:45:53", "agent": "orchestrator", "message": "Pipeline run completed successfully", "extra": {}}
+{"timestamp": "2025-12-05 14:56:36", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 14:56:36", "agent": "orchestrator", "message": "Pipeline Error", "extra": {"error": "'charmap' codec can't encode character '\\u0394' in position 180: character maps to <undefined>"}}
+{"timestamp": "2025-12-05 15:00:13", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:00:13", "agent": "orchestrator", "message": "Pipeline complete", "extra": {}}
+{"timestamp": "2025-12-05 15:06:26", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:06:26", "agent": "orchestrator", "message": "Pipeline Error", "extra": {"error": "name 'hyo' is not defined"}}
+{"timestamp": "2025-12-05 15:09:08", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:09:09", "agent": "orchestrator", "message": "Pipeline complete", "extra": {}}
+{"timestamp": "2025-12-05 15:28:18", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:28:18", "agent": "orchestrator", "message": "Pipeline Error", "extra": {"error": "'data'"}}
+{"timestamp": "2025-12-05 15:28:23", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:28:23", "agent": "orchestrator", "message": "Pipeline Error", "extra": {"error": "'data'"}}
+{"timestamp": "2025-12-05 15:31:05", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:31:05", "agent": "orchestrator", "message": "Pipeline Error", "extra": {"error": "'data'"}}
+{"timestamp": "2025-12-05 15:33:02", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:33:02", "agent": "orchestrator", "message": "Pipeline Error", "extra": {"error": "validate_schema() takes 1 positional argument but 2 were given"}}
+{"timestamp": "2025-12-05 15:34:07", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:34:07", "agent": "orchestrator", "message": "Pipeline Error", "extra": {"error": "\"InsightAgent expected key 'daily' in data summary\""}}
+{"timestamp": "2025-12-05 15:38:21", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:38:21", "agent": "orchestrator", "message": "Pipeline Error", "extra": {"error": "string indices must be integers"}}
+{"timestamp": "2025-12-05 15:39:35", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:39:35", "agent": "orchestrator", "message": "Pipeline complete", "extra": {}}
