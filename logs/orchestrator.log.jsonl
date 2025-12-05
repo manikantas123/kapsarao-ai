@@ -46,3 +46,5 @@
 {"timestamp": "2025-12-05 15:38:21", "agent": "orchestrator", "message": "Pipeline Error", "extra": {"error": "string indices must be integers"}}
 {"timestamp": "2025-12-05 15:39:35", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
 {"timestamp": "2025-12-05 15:39:35", "agent": "orchestrator", "message": "Pipeline complete", "extra": {}}
+{"timestamp": "2025-12-05 15:59:59", "agent": "orchestrator", "message": "Starting pipeline", "extra": {"query": "Analyze ROAS drop in last 14 days"}}
+{"timestamp": "2025-12-05 15:59:59", "agent": "orchestrator", "message": "Pipeline complete", "extra": {}}

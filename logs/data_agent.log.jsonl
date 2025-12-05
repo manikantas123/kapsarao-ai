@@ -21,3 +21,6 @@
 {"timestamp": "2025-12-05 15:39:35", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
 {"timestamp": "2025-12-05 15:39:35", "agent": "data_agent", "message": "Cleaned data", "extra": {"rows": 4500}}
 {"timestamp": "2025-12-05 15:39:35", "agent": "data_agent", "message": "Split baseline/recent", "extra": {"baseline_rows": 76, "recent_rows": 14}}
+{"timestamp": "2025-12-05 15:59:59", "agent": "data_agent", "message": "Loaded CSV", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:59:59", "agent": "data_agent", "message": "Cleaned data", "extra": {"rows": 4500}}
+{"timestamp": "2025-12-05 15:59:59", "agent": "data_agent", "message": "Split baseline/recent", "extra": {"baseline_rows": 76, "recent_rows": 14}}
